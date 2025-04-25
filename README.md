@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Jin
+# 👋 Hey, I’m Omkar
 
 > *“There’s a lot of noise in the world of AI. I focus on building the parts that quietly deliver value.”* 🤖✨
 
