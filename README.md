@@ -9,7 +9,7 @@ These weren’t just projects—they were products that shipped, got adopted, an
 
 ---
 
-## 🧪 I vibe code and do POCs when I get time ⚡
+## 🧪 I code with Cursor and do quick POCs when I get time ⚡
 
 Currently @ **Studio Team** 🛠️ where we:
 - 🚀 Rapidly prototype and scale **Generative AI** apps
@@ -26,9 +26,9 @@ Currently @ **Studio Team** 🛠️ where we:
 ## 🤓 On the side
 
 Outside of work, I’m:
-- 🎶 Learning **music theory**
+- 🎶 Learning **music**
 - 🏏 Watching **cricket** like it’s a full-time job
-- ☕ Brewing **filter coffee** like a science experiment
+- ☕ Brewing **coffee** like a science experiment
 
 ---
 
