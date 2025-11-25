@@ -5,8 +5,6 @@
 I'm an **AI Product Manager** with a background in **product**, **data**, and an **MBA from IIM Nagpur** 🎓.  
 Over the years, I’ve collaborated with sharp, cross-functional teams to bring practical AI solutions into the real world—developing tools that improved **📈 marketing ROI**, enhanced **🚚 supply chain efficiency**, and elevated **💡 customer experience** across industries.
 
-These weren’t just projects—they were products that shipped, got adopted, and solved real problems.
-
 ---
 
 ## 🧪 I code with Cursor & Claude Code to do quick POCs when I get time ⚡
