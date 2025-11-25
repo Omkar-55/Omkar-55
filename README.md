@@ -9,7 +9,7 @@ These weren’t just projects—they were products that shipped, got adopted, an
 
 ---
 
-## 🧪 I code with Cursor and do quick POCs when I get time ⚡
+## 🧪 I code with Cursor & Claude Code to do quick POCs when I get time ⚡
 
 Currently @ **Studio Team** 🛠️ where we:
 - 🚀 Rapidly prototype and scale **Generative AI** apps
@@ -18,18 +18,7 @@ Currently @ **Studio Team** 🛠️ where we:
 
 **Recent focus**:
 - 🧬 GenAI R&D + Scaled implementation
-- 🧾 Building systems that analyze context, recommend actions, and automate tasks
+- 🧾 Building systems that analyze context, recommend actions, and execute tasks on enterprise systems
 - 🛠️ Bridging ideas → working software → business value
 
 ---
-
-## 🤓 On the side
-
-Outside of work, I’m:
-- 🎶 Learning **music**
-- 🏏 Watching **cricket** like it’s a full-time job
-- ☕ Brewing **coffee** like a science experiment
-
----
-
-Let’s connect if you're building cool stuff in GenAI, enjoy talking product, or just want to geek out over AI, 🎼 or ☕.
